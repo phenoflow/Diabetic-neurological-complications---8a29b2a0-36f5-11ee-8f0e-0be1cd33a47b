@@ -1,0 +1,39 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/diabetic-neurological-complications-manifestation---primary.py
+inputModule3:
+  class: File
+  path: python/diabetic-neurological-complications-amyotrophy---primary.py
+inputModule4:
+  class: File
+  path: python/neuropathy-diabetic-neurological-complications---primary.py
+inputModule5:
+  class: File
+  path: python/diabetic-neurological-complications-mellitus---primary.py
+inputModule6:
+  class: File
+  path: python/insulindependent-diabetic-neurological-complications---primary.py
+inputModule7:
+  class: File
+  path: python/diabetic-neurological-complications-mononeuritis---primary.py
+inputModule8:
+  class: File
+  path: python/painful-diabetic-neurological-complications---primary.py
+inputModule9:
+  class: File
+  path: python/complications---primary.py
+inputModule10:
+  class: File
+  path: python/diabetic-neurological-complications-history---primary.py
+inputModule11:
+  class: File
+  path: python/diabetic-neurological-complications-mellitus---secondary.py
+inputModule12:
+  class: File
+  path: python/diabetic-neurological-complications---secondary.py
+inputModule13:
+  class: File
+  path: python/output-cases.py
